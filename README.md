@@ -36,23 +36,23 @@ El sistema fue diseñado siguiendo principios de programación estructurada, inc
 
 El sistema permite:
 
-✅ Mostrar países.
+- Mostrar países.
 
-✅ Agregar nuevos países.
+- Agregar nuevos países.
 
-✅ Actualizar la información de un país.
+-  Actualizar la información de un país.
 
-✅ Buscar países por nombre.
+-  Buscar países por nombre.
 
-✅ Filtrar países por continente.
+-  Filtrar países por continente.
 
-✅ Ordenar países según distintos criterios.
+- Ordenar países según distintos criterios.
 
-✅ Mostrar estadísticas generales.
+- Mostrar estadísticas generales.
 
-✅ Guardar los cambios realizados en el archivo CSV.
+- Guardar los cambios realizados en el archivo CSV.
 
-✅ Eliminar países del sistema.
+- Eliminar países del sistema.
 
 ## Estructura del proyecto
 
@@ -91,7 +91,7 @@ Los cambios realizados durante la ejecución pueden guardarse para futuras sesio
 
 Link al video explicativo:
 
-(Agregar aquí el enlace de YouTube o Google Drive)
+https://youtu.be/a7OZpZcHuJo
 
 ## Participación de los integrantes
 
