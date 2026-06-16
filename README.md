@@ -93,6 +93,10 @@ Link al video explicativo:
 
 https://youtu.be/a7OZpZcHuJo
 
+##PDF
+
+[Ver informe PDF](./Informe_TPI_Programacion_I.pdf)
+
 ## Participación de los integrantes
 
 La resolución del proyecto se realizó de manera conjunta, participando ambos integrantes en el análisis de la consigna, el desarrollo del código, las pruebas de funcionamiento y la documentación del trabajo.
